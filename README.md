@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justinstoner2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web development on the freecodecamp.org platform and planning to attend Oregon State University's Computer science program in the fall
-- 💞️ I’m looking to collaborate on small project to practice and expand my knowledge. 
+- 👀 I’m interested in building new programs that make people's day to day tasks easier. 
+- 🌱 I’m currently attending Oregon State University for Computer Science. I am a senior with an expected graduation date of June 2024. 
+- 💞️ I’m looking to get my feet wet with a larger project I am sufficient in Python, Web Dev, C#, .NET framework, basic SQL queries and database management 
 - 📫 How to reach me by email justinstoner2@gmail.com
 
 <!---
